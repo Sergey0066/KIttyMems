@@ -17,4 +17,4 @@ KittyMemsExe версия:
 ```
 <!--Пользовательская документация-->
 ## Свехая версия KittyMemsExe
-Скачать пред-релиз по [этой ссылке](https://github.com/Sergey0066/KIttyMems/releases/tag/KittyMemsExe)
+Скачать пред-релиз можно по [этой ссылке](https://github.com/Sergey0066/KIttyMems/releases/tag/KittyMemsExe)
