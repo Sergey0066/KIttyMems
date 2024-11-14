@@ -7,7 +7,7 @@
 
 Милая, прикольная и опасная штучка :)
 
-## Пред-релиз KittyMemsExe
+## Pre-release KittyMemsExe
 Скачать пред-релиз можно по [этой ссылке](https://github.com/Sergey0066/KIttyMems/releases/tag/KittyMemsExe)
 
 ```Deprecated
