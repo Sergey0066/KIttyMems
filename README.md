@@ -16,5 +16,5 @@ KittyMemsExe версия:
 Табличка перед запуском exe, в ближайшее время уберу.
 ```
 <!--Пользовательская документация-->
-## Документация
-Пользовательскую документацию можно получить по [этой ссылке](https://github.com/Sergey0066/KIttyMems/releases/tag/KittyMemsExe)
+## Свехая версия KittyMemsExe
+Скачать пред-релиз по [этой ссылке](https://github.com/Sergey0066/KIttyMems/releases/tag/KittyMemsExe)
