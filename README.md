@@ -15,5 +15,6 @@ KittyMemsExe версия:
 Скачать можете в пред-релизах проекта.
 Табличка перед запуском exe, в ближайшее время уберу.
 ```
-
-Свежая версия vbs в exe: [KittyMemsExe]([https://github.com/OkulusDev/Oxygen#зависимости](https://github.com/Sergey0066/KIttyMems/releases/tag/KittyMemsExe))
+<!--Пользовательская документация-->
+## Документация
+Пользовательскую документацию можно получить по [этой ссылке](https://github.com/Sergey0066/KIttyMems/releases/tag/KittyMemsExe)
