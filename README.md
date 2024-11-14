@@ -12,6 +12,6 @@ KittyMemsExe версия:
 
 Скомпилиронан vbs в exe, для удобства запуска.
 Скачать можете в пре-релизах проекта.
-https://github.com/Sergey0066/KIttyMems/releases/tag/KittyMemsExe
+![Logotype](./docs/wall.jpg)
 Табличка перед запуском exe, в ближайшее время уберу.
 ```
