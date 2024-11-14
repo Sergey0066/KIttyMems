@@ -7,6 +7,8 @@
 
 Милая, прикольная и опасная штучка :)
 
+## Версия KittyMemsExe
+Скачать пред-релиз можно по [этой ссылке](https://github.com/Sergey0066/KIttyMems/releases/tag/KittyMemsExe)
 
 ```Deprecated
 KittyMemsExe версия:
@@ -16,5 +18,3 @@ KittyMemsExe версия:
 Табличка перед запуском exe, в ближайшее время уберу.
 ```
 <!--Пользовательская документация-->
-## Свехая версия KittyMemsExe
-Скачать пред-релиз можно по [этой ссылке](https://github.com/Sergey0066/KIttyMems/releases/tag/KittyMemsExe)
